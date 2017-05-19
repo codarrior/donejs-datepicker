@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "Seiji Yama",
+      "authorEmail": "seiyama@tutanota.com",
+      "authorUrl": ""
+    }
+  }
+}
